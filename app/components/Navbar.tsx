@@ -26,7 +26,7 @@ const Navbar = () => {
                 UserPhoto
 
                 <Link href="/create-project">
-                    Share Work
+                    Share Workrun 
                 </Link>
                 </>
             ) : <AuthProviders/>
